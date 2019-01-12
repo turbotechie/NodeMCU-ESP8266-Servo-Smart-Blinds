@@ -1,0 +1,4 @@
+I seem to be missing a header (.h) file? can anyone help me with that please?
+
+I am able to flash my node mcu with sketch. however no header file error and when blinds1.local/close or open, 
+i see the web page but no movement, wired properly tired 2 different servos
